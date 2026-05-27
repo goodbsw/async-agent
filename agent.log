@@ -1,0 +1,4 @@
+INFO 192.168.0.1 - Access Granted
+ERROR 500 - Internal Server Error
+INFO 192.168.0.2 - Path /index.html
+ERROR 403 - Forbidden
